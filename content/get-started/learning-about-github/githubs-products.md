@@ -77,7 +77,7 @@ In addition to the features available with {% data variables.product.prodname_fr
   - Team pull request reviewers
   - Scheduled reminders
 
-{% data reusables.github-actions.actions-billing %}
+{% data reusables.github-actions.actions-bimlling %}
 
 ## {% data variables.product.prodname_enterprise %}
 
